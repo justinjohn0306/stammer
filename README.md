@@ -9,6 +9,11 @@ For each frame in the audio source being recreated, STAMMER selects the frame in
 
 ## Instructions
 
+
+**Colab Notebook**: <a href="https://colab.research.google.com/github/justinjohn0306/stammer/blob/main/notebook/STeAMed_haM_ifiER_(STAMMER).ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+
 STAMMER requires python 3, and the following python libraries:
 
 ```
